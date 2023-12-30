@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91dc6c76-f7a4-48ea-991b-203a194206a4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../07_1 - Algoritmai (praktiniai)/07_1_03_BinarySearch/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../07_1 - Algoritmai (praktiniai)/07_1_03_BinarySearch/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ZqvuybLvUbTCD5ApYs0ohvtDFK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArraysTask2D.executor": "Run",
+    "JUnit.All in 06_4_arrays.executor": "Run",
+    "JUnit.ArraysTask2DTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mildabudaite/Desktop/JAVA_techin/06_4_arrays_2D",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.All in 06_4_arrays">
+    <configuration name="ArraysTask2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.techin.praktinis.ArraysTask2D" />
+      <module name="06_4_arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.techin.praktinis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 06_4_arrays" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06_4_arrays" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysTask2DTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="06_4_arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.techin.praktinis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.techin.praktinis" />
+      <option name="MAIN_CLASS_NAME" value="lt.techin.praktinis.ArraysTask2DTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in 06_4_arrays" />
+        <item itemvalue="Application.ArraysTask2D" />
+        <item itemvalue="JUnit.ArraysTask2DTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-abbd5a8d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91dc6c76-f7a4-48ea-991b-203a194206a4" name="Changes" comment="" />
+      <created>1703162651405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703162651405</updated>
+      <workItem from="1703162653021" duration="746000" />
+      <workItem from="1703931904079" duration="221000" />
+      <workItem from="1703932309333" duration="153000" />
+      <workItem from="1703932659042" duration="14185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
