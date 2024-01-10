@@ -12,11 +12,9 @@ public class Square extends Rectangle {
         super(side, side, color, filled);
     }
 
-
     public double getSide() {
         return getLength();
     }
-
 
     public void setSide(double length) {
         setWidth(length);
@@ -37,6 +35,9 @@ public class Square extends Rectangle {
 
     @Override
     public String toString() {
-        return "A square with side = "+getSide()+", which is a subclass of "+super.toString();
+        return "A square with side = " + getSide() + ", which is a subclass of " + super.toString();
     }
+
+
+
 }

@@ -5,18 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2698aa68-9285-4517-b668-0a73d05585dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dariaus/Shapes/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dariaus/Shapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dariaus/Shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dariaus/Shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dariaus/Shapes/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../06_4_arrays_2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06_4_arrays_2D/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../String_praktiniai/S_07.NameOfTheOldest/src/main/java/NameOfTheOldest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String_praktiniai/S_07.NameOfTheOldest/src/main/java/NameOfTheOldest.java" afterDir="false" />
     </list>
@@ -33,11 +21,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2aiXbPm4rGqhaxNHORismt2duKY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -52,6 +41,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mildabudaite/Desktop/JAVA_techin/Inheritance",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,7 +78,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704802444264</updated>
-      <workItem from="1704802445391" duration="4181000" />
+      <workItem from="1704802445391" duration="5924000" />
+      <workItem from="1704869545405" duration="4820000" />
     </task>
     <servers />
   </component>
