@@ -102,7 +102,7 @@ public class PhilatelistImplemented implements Philatelist {
     public List<PostStamp> getSortedPostStampsByName() {
         List<PostStamp> sorterList = new ArrayList<>();
         sorterList.addAll(poststamps);
-        sorterList.sort(new nameComparator());
+        sorterList.sort(new NameComparator());
         return sorterList;
     }
 }
