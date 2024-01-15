@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8430064c-5d80-4370-bf0f-f2d2cd63a3d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/.idea/09_praktiniai_oop_inheritance 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_01.ABC/src/main/java/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_01.ABC/src/main/java/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_01.ABC/src/main/java/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_02.PersonAndSubclasses/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_02.PersonAndSubclasses/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/philatelist_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/philatelist-Darius.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/techin/darius/PhilatelistImplemented.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/techin/darius/nameComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_4_arrays_2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06_4_arrays_2D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_praktiniai/S_07.NameOfTheOldest/src/main/java/NameOfTheOldest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String_praktiniai/S_07.NameOfTheOldest/src/main/java/NameOfTheOldest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2ayyX67orkYGq08lGzXbScHGczu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.PhilatelistTest.executor": "Run",
+    "JUnit.lt.techin.darius in philatelist-Darius.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="philatelist-Darius" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhilatelistTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="philatelist-Darius" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.techin.darius.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.techin.darius" />
+      <option name="MAIN_CLASS_NAME" value="lt.techin.darius.PhilatelistTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lt.techin.darius in philatelist-Darius" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="philatelist-Darius" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.techin.darius.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.techin.darius" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.lt.techin.darius in philatelist-Darius" />
+        <item itemvalue="JUnit.PhilatelistTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8430064c-5d80-4370-bf0f-f2d2cd63a3d2" name="Changes" comment="" />
+      <created>1705305154856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705305154856</updated>
+      <workItem from="1705305156976" duration="6970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
