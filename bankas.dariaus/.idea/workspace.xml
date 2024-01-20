@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13b2790f-b3a6-46ab-8834-480e402d4872" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bankas.dariaus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/techin/darius/AccountGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/techin/darius/ImpBaseBankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lt/techin/darius/MyAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_4_arrays_2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06_4_arrays_2D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_01.ABC/src/main/java/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_01.ABC/src/main/java/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_01.ABC/src/main/java/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_01.ABC/src/main/java/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_01.ABC/src/main/java/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_01.ABC/src/main/java/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_02.PersonAndSubclasses/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_02.PersonAndSubclasses/src/main/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_02.PersonAndSubclasses/src/main/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_02.PersonAndSubclasses/src/main/java/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_02.PersonAndSubclasses/src/main/java/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_02.PersonAndSubclasses/src/main/java/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_03.Warehousing/src/main/java/ChangeHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_03.Warehousing/src/main/java/ChangeHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_03.Warehousing/src/main/java/ProductWarehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_03.Warehousing/src/main/java/ProductWarehouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_03.Warehousing/src/main/java/ProductWarehouseWithHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_03.Warehousing/src/main/java/ProductWarehouseWithHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_praktiniai/S_07.NameOfTheOldest/src/main/java/NameOfTheOldest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String_praktiniai/S_07.NameOfTheOldest/src/main/java/NameOfTheOldest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../philatelist-Darius/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../philatelist-Darius/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../philatelist-Darius/src/lt/techin/darius/PhilatelistImplemented.java" beforeDir="false" afterPath="$PROJECT_DIR$/../philatelist-Darius/src/lt/techin/darius/PhilatelistImplemented.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2bAb1L5qcwHv15PzjHbj90D1Go5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.lt.techin.darius in bankas.dariaus.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lt.techin.darius" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.lt.techin.darius in bankas.dariaus">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="bankas.dariaus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lt.techin.darius in bankas.dariaus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankas.dariaus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lt.techin.darius.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lt.techin.darius" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.lt.techin.darius in bankas.dariaus" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-abbd5a8d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13b2790f-b3a6-46ab-8834-480e402d4872" name="Changes" comment="" />
+      <created>1705660617569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705660617569</updated>
+      <workItem from="1705660619907" duration="8111000" />
+      <workItem from="1705770464218" duration="198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
