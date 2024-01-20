@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab3bccb5-4ea4-4eca-b836-454813c4c9f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/14_01.ValidatingParameters/src/main/java/validating/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_02.SensorsAndTemperature/src/main/java/application/AverageSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_02.SensorsAndTemperature/src/main/java/application/StandardSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_02.SensorsAndTemperature/src/main/java/application/TemperatureSensor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_4_arrays_2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../06_4_arrays_2D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_01.ABC/src/main/java/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_01.ABC/src/main/java/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_01.ABC/src/main/java/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_01.ABC/src/main/java/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_01.ABC/src/main/java/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_01.ABC/src/main/java/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_02.PersonAndSubclasses/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_02.PersonAndSubclasses/src/main/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_02.PersonAndSubclasses/src/main/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_02.PersonAndSubclasses/src/main/java/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_02.PersonAndSubclasses/src/main/java/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_02.PersonAndSubclasses/src/main/java/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_03.Warehousing/src/main/java/ChangeHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_03.Warehousing/src/main/java/ChangeHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_03.Warehousing/src/main/java/ProductWarehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_03.Warehousing/src/main/java/ProductWarehouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_03.Warehousing/src/main/java/ProductWarehouseWithHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../09_praktiniai_oop_inheritance 2/09_03.Warehousing/src/main/java/ProductWarehouseWithHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../10_praktiniai_oop_polymorphism/10_05.Animals/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_praktiniai/S_07.NameOfTheOldest/src/main/java/NameOfTheOldest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String_praktiniai/S_07.NameOfTheOldest/src/main/java/NameOfTheOldest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../philatelist-Darius/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../philatelist-Darius/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../philatelist-Darius/src/lt/techin/darius/PhilatelistImplemented.java" beforeDir="false" afterPath="$PROJECT_DIR$/../philatelist-Darius/src/lt/techin/darius/PhilatelistImplemented.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2b7k1kF01r5oDgrkuLhWG1LHqo8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Program.executor": "Debug",
+    "JUnit.All in 14_01.ValidatingParameters.executor": "Run",
+    "JUnit.All in 14_02.SensorsAndTemperature (1).executor": "Run",
+    "JUnit.All in 14_02.SensorsAndTemperature (2).executor": "Run",
+    "JUnit.All in 14_02.SensorsAndTemperature (3).executor": "Run",
+    "JUnit.All in 14_02.SensorsAndTemperature.executor": "Run",
+    "JUnit.validating in 14_01.ValidatingParameters.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mildabudaite/Desktop/JAVA_techin/14_praktiniai_exceptions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Program" />
+      <module name="14_02.SensorsAndTemperature" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 14_02.SensorsAndTemperature (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="14_02.SensorsAndTemperature" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 14_02.SensorsAndTemperature (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="14_02.SensorsAndTemperature" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 14_02.SensorsAndTemperature (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="14_02.SensorsAndTemperature" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 14_02.SensorsAndTemperature" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="14_02.SensorsAndTemperature" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+        <item itemvalue="JUnit.All in 14_02.SensorsAndTemperature (3)" />
+        <item itemvalue="JUnit.All in 14_02.SensorsAndTemperature (2)" />
+        <item itemvalue="JUnit.All in 14_02.SensorsAndTemperature (1)" />
+        <item itemvalue="JUnit.All in 14_02.SensorsAndTemperature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-abbd5a8d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab3bccb5-4ea4-4eca-b836-454813c4c9f2" name="Changes" comment="" />
+      <created>1705573292414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705573292414</updated>
+      <workItem from="1705573294209" duration="1338000" />
+      <workItem from="1705781449479" duration="5678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/14_02.SensorsAndTemperature/src/main/java/application/Program.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
